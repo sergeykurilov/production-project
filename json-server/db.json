@@ -625,6 +625,12 @@
       "userId": "1",
       "text": "112",
       "id": "wSAhqy5"
+    },
+    {
+      "articleId": "18",
+      "userId": "1",
+      "text": "12",
+      "id": "r6b1z-N"
     }
   ],
   "users": [
@@ -646,8 +652,8 @@
   "profile": [
     {
       "id": "1",
-      "first": "jghwer",
-      "lastname": "asfewr",
+      "first": "timur",
+      "lastname": "ulbi",
       "age": 465,
       "currency": "RUB",
       "country": "Belarus",
