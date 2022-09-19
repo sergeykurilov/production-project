@@ -7266,10 +7266,10 @@
     "semver" "^6.3.0"
     "string.prototype.matchall" "^4.0.6"
 
-"eslint-plugin-ulbi-tv-plugin@^0.0.1":
-  "integrity" "sha512-awxUVm2mxJQ9h3DVaZQuikJEkNG4KchgS80frAQ/AeUYGFYyJQqPGWnRqyETfGypbWCQiaRb/nFWuct83Q3BEw=="
-  "resolved" "https://registry.npmjs.org/eslint-plugin-ulbi-tv-plugin/-/eslint-plugin-ulbi-tv-plugin-0.0.1.tgz"
-  "version" "0.0.1"
+"eslint-plugin-ulbi-tv-plugin@^0.0.2":
+  "integrity" "sha512-l5oNjLaHc9VVmEZdgbEAUVVHrbOH2At5wzCrMrx/21HNtFsBkg06prHC6uVj926cQQnOH1eHAFApq/b3mR2/AA=="
+  "resolved" "https://registry.npmjs.org/eslint-plugin-ulbi-tv-plugin/-/eslint-plugin-ulbi-tv-plugin-0.0.2.tgz"
+  "version" "0.0.2"
   dependencies:
     "requireindex" "^1.2.0"
 
