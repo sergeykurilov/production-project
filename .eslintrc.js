@@ -71,6 +71,7 @@ module.exports = {
         'react/no-array-index-key': 'off',
         'arrow-body-style': 'off',
         'ulbi-tv-plugin/path-checker': ['error', { alias: '@' }],
+        'ulbi-tv-plugin/public-api-imports': ['error', { alias: '@' }],
     },
     globals: {
         __IS_DEV__: true,
